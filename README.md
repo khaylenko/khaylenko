@@ -50,5 +50,5 @@ I am a professional IT specialist with over 8 years of commercial web developmen
 # Contacts
 
 - [Telegram](https://t.me/khaylenko "@khaylenko")
-- [VK](https://vk.com/khaylenko " alexander_khaylenko")
+- [VK](https://vk.com/khaylenko "@khaylenko")
 - [Email](mailto:khaylenko@mail.ru "khaylenko@mail.ru")
